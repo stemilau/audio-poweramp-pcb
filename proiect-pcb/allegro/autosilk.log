@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : PROIECT-PCB-v3.brd                            )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Dec 25 01:37:23 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying geometric elements.
+
+Element to Pad clearance is 0.10
+Max Text displacement is 100.00
+Min Line Length is 10.00
+Allowing 0 and 90 degree text rotations.
+No Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : None
+ Tolerance            : None
+ User Part Number     : None
+
+Line segment from (1138.00, 853.00) --> (1141.70, 853.00) is too small.
+Line segment from (1401.90, 853.00) --> (1403.00, 853.00) is too small.
+Line segment from (828.00, 803.00) --> (831.70, 803.00) is too small.
+Line segment from (1091.90, 803.00) --> (1093.00, 803.00) is too small.
+Line segment from (1138.00, 853.00) --> (1141.70, 853.00) is too small.
+Line segment from (1401.90, 853.00) --> (1403.00, 853.00) is too small.
+Line segment from (828.00, 803.00) --> (831.70, 803.00) is too small.
+Line segment from (1091.90, 803.00) --> (1093.00, 803.00) is too small.
+Line segment from (672.00, 167.00) --> (668.30, 167.00) is too small.
+Line segment from (408.10, 167.00) --> (407.00, 167.00) is too small.
+Line segment from (88.00, 683.00) --> (91.70, 683.00) is too small.
+Line segment from (351.90, 683.00) --> (353.00, 683.00) is too small.
+Line segment from (1070.00, 1515.00) --> (1070.00, 1514.00) is too small.
+Line segment from (1140.00, 95.00) --> (1140.00, 96.00) is too small.
+Line segment from (85.00, 780.00) --> (86.00, 780.00) is too small.
+Total segments less than 10.00, not copied: 15
+
+
+Total Failures: 0
+
+Log End
+

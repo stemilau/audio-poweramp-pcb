@@ -1,0 +1,294 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +27V         pins ADDED TO this new net
+                                 J2.2           Q5.2           Q7.2           
+                                 R7.2           R12.1          R71.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -27V         pins ADDED TO this new net
+                                 J2.1           Q2.3           Q8.3           
+                                 R11.2          R15.2          R27.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C2.2           D1.1           D2.2           
+                                 J1.2           J3.2           R62.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17839       pins ADDED TO this new net
+                                 R8.1           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17849       pins ADDED TO this new net
+                                 D1.3           R7.1           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17953       pins ADDED TO this new net
+                                 Q4.3           Q5.1           R13.2          
+                                 R14.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18017       pins ADDED TO this new net
+                                 Q5.3           Q7.1           R26.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18083       pins ADDED TO this new net
+                                 C3.1           R12.2          R13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18151       pins ADDED TO this new net
+                                 Q7.3           R26.2          R281.1         
+                                 R282.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18413       pins ADDED TO this new net
+                                 C1.2           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18419       pins ADDED TO this new net
+                                 Q1.1           R1.2           R61.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18433       pins ADDED TO this new net
+                                 Q2.1           R10.1          R31.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18443       pins ADDED TO this new net
+                                 R31.2          R32.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18567       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C4.1           Q1.3           Q3.1           
+                                 R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18575       pins ADDED TO this new net
+                                 J4.1           Q4.1           R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18611       pins ADDED TO this new net
+                                 C4.2           Q3.3           Q4.2           
+                                 Q6.1           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18637       pins ADDED TO this new net
+                                 C3.2           J5.1           R30.1          
+                                 R32.2          R281.2         R282.2         
+                                 R291.1         R292.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18713       pins ADDED TO this new net
+                                 R61.2          R62.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835       pins ADDED TO this new net
+                                 Q6.3           Q8.2           R291.2         
+                                 R292.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18985       pins ADDED TO this new net
+                                 Q6.2           Q8.1           R27.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19025       pins ADDED TO this new net
+                                 Q3.2           R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20372       pins ADDED TO this new net
+                                 Q2.2           R9.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20376       pins ADDED TO this new net
+                                 Q1.2           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24736       pins ADDED TO this new net
+                                 C2.1           R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25913       pins ADDED TO this new net
+                                 R72.2          R73.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26075       pins ADDED TO this new net
+                                 D2.1           R73.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26146       pins ADDED TO this new net
+                                 R71.1          R72.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SIGNAL-IN    pins ADDED TO this new net
+                                 C1.1           J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIGNAL-OUT   pins ADDED TO this new net
+                                 J3.1           R30.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR POL/SM_0_CAPAE660X770
+ CAP_CAPC2008X126N_0805_4.7P
+ CAP_CAPC2008X126N_0805_4.7U
+ CON1_SMD_PAD_3-05_1-80_CON1
+ CON2_1210RF_WV_12D_CON2
+ LED_RES2012X50N_0805_LED
+ NPN BCE_0_TO236AB_QBC817-25
+ NPN BCE_1_TO236AB_QBC846B
+ NPN BCE_TO252AA_QMJD31C
+ PNP BCE_0_TO236AB_QBC856B
+ PNP BCE_1_TO236AB_QBC856B
+ PNP BCE_TO252AA_QMJD32CT4G
+ POT_TS53YL_5K
+ POT_TS53YL_500
+ RESISTOR_RES2012X50N_0805_1K
+ RESISTOR_RES2012X50N_0805_33
+ RESISTOR_RES2012X50N_0805_220
+ R_RES2012X50N_0805_0.47
+ R_RES2012X50N_0805_3.3K
+ R_RES2012X50N_0805_4.7
+ R_RES2012X50N_0805_5.6K
+ R_RES2012X50N_0805_8.2K
+ R_RES2012X50N_0805_15K
+ R_RES2012X50N_0805_22K
+ R_RES2012X50N_0805_1
+ R_RES2012X50N_0805_33
+ R_RES2012X50N_0805_330
+ TCR22-2/TO_0_TO236AB_BZX84-C10
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_CAPC2008X126N_0805_4.7U 
+ C2                  CAP_CAPC2008X126N_0805_4.7U 
+ C3                  CAPACITOR POL/SM_0_CAPAE660X770 
+ C4                  CAP_CAPC2008X126N_0805_4.7P 
+ D1                  TCR22-2/TO_0_TO236AB_BZX84-C10 
+ D2                  LED_RES2012X50N_0805_LED 
+ J1                  CON2_1210RF_WV_12D_CON2 
+ J2                  CON2_1210RF_WV_12D_CON2 
+ J3                  CON2_1210RF_WV_12D_CON2 
+ J4                  CON1_SMD_PAD_3-05_1-80_CON1 
+ J5                  CON1_SMD_PAD_3-05_1-80_CON1 
+ Q1                  PNP BCE_0_TO236AB_QBC856B 
+ Q2                  PNP BCE_1_TO236AB_QBC856B 
+ Q3                  NPN BCE_0_TO236AB_QBC817-25 
+ Q4                  NPN BCE_1_TO236AB_QBC846B 
+ Q5                  NPN BCE_TO252AA_QMJD31C 
+ Q6                  PNP BCE_TO252AA_QMJD32CT4G 
+ Q7                  NPN BCE_TO252AA_QMJD31C 
+ Q8                  NPN BCE_TO252AA_QMJD31C 
+ R1                  R_RES2012X50N_0805_4.7 
+ R7                  R_RES2012X50N_0805_3.3K 
+ R8                  R_RES2012X50N_0805_15K 
+ R9                  POT_TS53YL_500        
+ R10                 R_RES2012X50N_0805_3.3K 
+ R11                 R_RES2012X50N_0805_5.6K 
+ R12                 R_RES2012X50N_0805_330 
+ R13                 R_RES2012X50N_0805_3.3K 
+ R14                 POT_TS53YL_5K         
+ R15                 R_RES2012X50N_0805_33 
+ R26                 R_RES2012X50N_0805_0.47 
+ R27                 R_RES2012X50N_0805_0.47 
+ R30                 R_RES2012X50N_0805_4.7 
+ R31                 R_RES2012X50N_0805_8.2K 
+ R32                 R_RES2012X50N_0805_22K 
+ R61                 R_RES2012X50N_0805_8.2K 
+ R62                 R_RES2012X50N_0805_22K 
+ R71                 RESISTOR_RES2012X50N_0805_1K 
+ R72                 RESISTOR_RES2012X50N_0805_220 
+ R73                 RESISTOR_RES2012X50N_0805_33 
+ R281                R_RES2012X50N_0805_1  
+ R282                R_RES2012X50N_0805_0.47 
+ R291                R_RES2012X50N_0805_1  
+ R292                R_RES2012X50N_0805_0.47 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.1                           PRIM_FILE      .\pstchip.dat
+ J5.1                           PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ Q8.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+ R32.2                          PRIM_FILE      .\pstchip.dat
+ R61.2                          PRIM_FILE      .\pstchip.dat
+ R62.2                          PRIM_FILE      .\pstchip.dat
+ R71.2                          PRIM_FILE      .\pstchip.dat
+ R72.2                          PRIM_FILE      .\pstchip.dat
+ R73.2                          PRIM_FILE      .\pstchip.dat
+ R281.2                         PRIM_FILE      .\pstchip.dat
+ R282.2                         PRIM_FILE      .\pstchip.dat
+ R291.2                         PRIM_FILE      .\pstchip.dat
+ R292.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/STEFA/DESKTOP/PROIECT1/PROIECT-PCB/allegro/PROIECT-PCB.brd         |
+|                                                    Sat Dec 17 16:33:45 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      94                                        |
+|       Comp definitions added:      28                                        |
+|       Components added      :      43                                        |
+|       Slot property added   :      43                                        |
+|                                                                              |
+|   Total ECO changes reported:     208                                        |
+|------------------------------------------------------------------------------|

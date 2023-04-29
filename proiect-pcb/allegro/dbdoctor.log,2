@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : PROIECT-PCB-v2.brd                            )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Dec 25 16:16:40 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SYMBOL DEFINITION name = LINEAR_DIMENSION
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+
+0 warnings, 1 errors detected, 1 errors could be fixed.

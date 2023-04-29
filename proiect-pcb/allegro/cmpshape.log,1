@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : PROIECT-PCB-v3.brd                            )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Dec 24 15:34:04 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(PACKAGE GEOMETRY)
+A total of 1 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.

@@ -1,0 +1,40 @@
+  Revised: Thursday, December 15, 2022
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 15,2022      20:48:31	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C2	4.7u
+2	1	C3	10u
+3	1	C4	4.7p
+4	1	D1	BZX84-C10
+5	1	D2	LED
+6	2	J1,J2	CON2
+7	3	J3,J4,J5	CON1
+8	2	Q1,Q2	QBC856B
+9	1	Q3	QBC817-25
+10	1	Q4	QBC846B
+11	3	Q5,Q7,Q8	QMJD31C
+12	1	Q6	QMJD32CT4G
+13	2	R1,R30	4.7
+14	3	R7,R10,R13	3.3k
+15	1	R8	15k
+16	1	R9	500
+17	1	R11	5.6k
+18	1	R12	330
+19	1	R14	5k
+20	2	R15,R73	33
+21	4	R26,R27,R282,R292	0.47
+22	2	R31,R61	8.2k
+23	2	R32,R62	22k
+24	1	R71	1k
+25	1	R72	220
+26	2	R281,R291	1

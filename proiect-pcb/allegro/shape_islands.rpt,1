@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : PROIECT-PCB-v2.brd                            )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Dec 25 14:08:18 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (340.16 1005.03)  Net: GND
+	Point on shape: (293.20 1110.74)  Net: GND
+	Point on shape: (1076.35 1322.38)  Net: GND

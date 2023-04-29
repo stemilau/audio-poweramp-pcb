@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : res2012x50n_0805.dra                          )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Fri Apr 18 14:40:48 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/automatizari/librarie allegro
+    Name      = res2012x50n_0805.psm
+    User      = iulian
+    Machine   = IULIAN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

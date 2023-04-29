@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TS53YL.dra                                    )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Wed Jun 26 21:02:15 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols
+    Name      = ts53yl.psm
+    User      = Admin
+    Machine   = ADMIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

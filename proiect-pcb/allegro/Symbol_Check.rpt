@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : PROIECT-PCB.brd                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Dec 19 20:37:27 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	K:/Cadence/SPB_17.2/share/local/pcb/symbols
+	K:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+	K:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      42 out of 43
+
+
+Symbol Found:  D2	- C:/Users/stefa/Desktop/PROIECT1/proiect-pcb/allegro/res2012x50n_0805.psm

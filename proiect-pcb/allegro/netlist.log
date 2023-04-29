@@ -1,0 +1,13 @@
+{ Using PSTWRITER 17.2.0 d001Dec-17-2022 at 16:34:10 }
+
+#1 WARNING(ORCAP-36006): Part Name "CAPACITOR POL/SM_0_CAPAE660X770N_10U" is renamed to "CAPACITOR POL/SM_0_CAPAE660X770".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\STEFA\DESKTOP\PROIECT1\PROIECT-PCB\allegro/pstchip.dat
+
+Loading... C:\USERS\STEFA\DESKTOP\PROIECT1\PROIECT-PCB\allegro/pstchip.dat
+
+Loading... C:\USERS\STEFA\DESKTOP\PROIECT1\PROIECT-PCB\allegro/pstxprt.dat
+
+Loading... C:\USERS\STEFA\DESKTOP\PROIECT1\PROIECT-PCB\allegro/pstxnet.dat
+packaging the design view...
